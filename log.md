@@ -37,3 +37,12 @@
 
 **Link(s) to work**
 1. My Eccomerce website: file:///Users/joybradshaw/Desktop/finalproject/index.html
+
+# Day 4: Jan 14, Thurs
+
+**Today's Progress**:  I worked on the eccomerce website. I worked on the shipping section trying to connect shipping costs to the total amount and submit button. The only visible difference is now the submit button, and shipping list isn't showing.
+
+**Thoughts** Today felt less productive, and more discouraging than the others as I didn't move forward in my code at all. Just spent a long time trying to figure out how to do things. I guess now I know what not to do, but that's it. 
+
+**Link(s) to work**
+1. My Eccomerce website: file:///Users/joybradshaw/Desktop/finalproject/index.html
