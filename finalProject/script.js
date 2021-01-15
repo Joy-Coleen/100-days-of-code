@@ -142,7 +142,12 @@ const menuMapper = (product) => {
 menu.forEach(menuMapper);
 
 //to make drop down list
-
+//global variables for list
+let usps = 0;
+  let ups = 5;
+  let ebay = 20;
+  let amazon = 4;
+  let value = 600;
 function dropDownList() {
   // -- Create Shopping Cart Item
   //console.log('I was clicked');
@@ -157,15 +162,15 @@ function dropDownList() {
   //                      </select>
   //                      <input type="submit" value="Submit">`;
   delivery.innerHTML = `<label for="drinks">Shipping:</label>
-        <select name="drinkShipping" id="menuShipping">
-          <option value="USPS">USPS: free</option>
-          <option value="UPS">UPS: $5:00</option>
-          <option value="Ebay">Ebay: $20</option>
-          <option value="Amazon">Amazon: $4</option>
-          <option value="FEDEX">FEDEX: $600</option>
-        </select>
-        <br><br>
-        <input type="submit" value="Submit" ${onclick="myFunction()"}>`;
+  <select name="drinkShipping" id="menuShipping">
+    <option value="USPS">USPS: free</option>
+    <option value="UPS">UPS: $5:00</option>
+    <option value="Ebay">Ebay: $20</option>
+    <option value="Amazon">Amazon: $4</option>
+    <option value="FEDEX">FEDEX: $600</option>
+  </select>
+  <br><br>
+  <input type="submit" value="Submit">`;
         //<button onclick="myFunction()">Click me</button>
         //<input type="submit" value="Submit">
 //Instead I would create the <button> directly with createElement() and then add it to DOM with appendChild()
@@ -174,13 +179,25 @@ function dropDownList() {
   //`<select name="people" id="people">${options}</select>`;
   //'<option value="' + person.id + '">'
   //        <input type="submit" value="Submit">
-  let usps = 0;
-  let ups = 5;
-  let ebay = 20;
-  let amazon = 4;
-  let value = 600;
+  
   outerwrapper.appendChild(delivery);
+ 
 
+
+  //add onclick event so that if one of these shipping options is selected,
+  // the the total (    productTotal.textContent = `Product Total: $${total + value}`;)
+//will shop up when the submit button is clicked 1/13/2021
+  //outerwrapper.append(productImage);
+
+  // HINTS:
+  // Look at onChange event (although the click event might work)
+  // Look at how to retrieve values from select elements
+  // Remember our global total variable.
+
+dropDownList();
+}
+function myFunction() {
+  
   if (delivery === "USPS") {
     productTotal.textContent = `Product Total: $${total + usps}`;
   } else if (delivery === "UPS"){
@@ -199,16 +216,9 @@ function dropDownList() {
     productTotal.textContent = `Product Total: $${total + value}`;
 
   }
-  //add onclick event so that if one of these shipping options is selected,
-  // the the total (    productTotal.textContent = `Product Total: $${total + value}`;)
-//will shop up when the submit button is clicked 1/13/2021
-  //outerwrapper.append(productImage);
+  
 
-  // HINTS:
-  // Look at onChange event (although the click event might work)
-  // Look at how to retrieve values from select elements
-  // Remember our global total variable.
-}
-dropDownList();
+myFunction();
 
 //https://stackoverflow.com/questions/21325576/how-to-remove-added-item-in-cart
+}
