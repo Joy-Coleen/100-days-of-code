@@ -162,9 +162,9 @@ function dropDownList() {
   //                      </select>
   //                      <input type="submit" value="Submit">`;
   delivery.innerHTML = `<label for="drinks">Shipping:</label>
-  <select name="drinkShipping" id="menuShipping">
+  <select id="menuShipping" onchange="myFunction()">
     <option value="USPS">USPS: free</option>
-    <option value="UPS">UPS: $5:00</option>
+    <option value="UPS">UPS: $5.00</option>
     <option value="Ebay">Ebay: $20</option>
     <option value="Amazon">Amazon: $4</option>
     <option value="FEDEX">FEDEX: $600</option>
@@ -193,32 +193,39 @@ function dropDownList() {
   // Look at onChange event (although the click event might work)
   // Look at how to retrieve values from select elements
   // Remember our global total variable.
-
-dropDownList();
 }
+dropDownList();
+
+// function myFunction() {
+//   let delivery = document.createElement("delivery");
+
+//   if (delivery === "USPS") {
+//     productTotal.textContent = `Product Total: $${total + usps}`;
+//   } else if (delivery === "UPS"){
+//     productTotal.textContent = `Product Total: $${total + ups}`;
+
+//   }
+//   else if (delivery === "Ebay"){
+//     productTotal.textContent = `Product Total: $${total + ebay}`;
+
+//   }
+//   else if (delivery === "Amazon"){
+//     productTotal.textContent = `Product Total: $${total + amazon}`;
+
+//   }
+//   else if (delivery === "FEDEX"){
+//     productTotal.textContent = `Product Total: $${total + value}`;
+
+//   }
+  
+// }
+// myFunction();
 function myFunction() {
-  
-  if (delivery === "USPS") {
-    productTotal.textContent = `Product Total: $${total + usps}`;
-  } else if (delivery === "UPS"){
-    productTotal.textContent = `Product Total: $${total + ups}`;
-
-  }
-  else if (delivery === "Ebay"){
-    productTotal.textContent = `Product Total: $${total + ebay}`;
-
-  }
-  else if (delivery === "Amazon"){
-    productTotal.textContent = `Product Total: $${total + amazon}`;
-
-  }
-  else if (delivery === "FEDEX"){
-    productTotal.textContent = `Product Total: $${total + value}`;
-
-  }
-  
-
-myFunction();
+ // var x = document.getElementById("menuShipping").value;
+  //document.getElementById("demo").innerHTML = "You selected: " + x;
+  //productTotal.textContent = `Product Total: $${total + x}`;
+ // document.getElementById("submitBttn").innerHTML = "You selected: " + x;
+}
 
 //https://stackoverflow.com/questions/21325576/how-to-remove-added-item-in-cart
-}
+
