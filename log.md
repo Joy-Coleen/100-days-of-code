@@ -46,3 +46,20 @@
 
 **Link(s) to work**
 1. My Eccomerce website: file:///Users/joybradshaw/Desktop/finalproject/index.html
+
+# Day 5: Jan 15, Fri
+**Today's Progress**: I learned about the following: 
+append() A method that inserts content at the end of selected elements.
+Command c = comment out highlighted text
+I worked on my Eccomerce website. I got the shipping section to show again -earlier I had closed curly brackets prematurely- as there were some things that should have been in curly brackets. I added the onchange method. It still is not functional. I also researched github as i'm struggling with using it.
+
+**Thoughts** Today started off not good, but near the last 20 min, I got more focused and took more in. Using github is a learning curve.
+**Link(s) to work** file:///Users/joybradshaw/Desktop/finalproject/index.html
+
+
+
+# Day 4: Jan 14, Thurs
+**Today's Progress**: 
+**Thoughts**
+**Link(s) to work**
+
