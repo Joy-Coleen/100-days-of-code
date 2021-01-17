@@ -81,6 +81,7 @@ const menuMapper = (product) => {
 
     let productTotal = document.createElement("h2");
     console.log(productTotal);
+    //product total here
     total = product.price + total;
     productTotal.textContent = `Product Total: $${total}`;
 
@@ -147,7 +148,7 @@ let usps = 0;
   let ups = 5;
   let ebay = 20;
   let amazon = 4;
-  let value = 600;
+  let fedex = 600;
 function dropDownList() {
   // -- Create Shopping Cart Item
   //console.log('I was clicked');
@@ -162,7 +163,7 @@ function dropDownList() {
   //                      </select>
   //                      <input type="submit" value="Submit">`;
   delivery.innerHTML = `<label for="drinks">Shipping:</label>
-  <select id="menuShipping" onchange="myFunction()">
+  <select id="menuShipping">
     <option value="USPS">USPS: free</option>
     <option value="UPS">UPS: $5.00</option>
     <option value="Ebay">Ebay: $20</option>
@@ -170,7 +171,14 @@ function dropDownList() {
     <option value="FEDEX">FEDEX: $600</option>
   </select>
   <br><br>
-  <input type="submit" value="Submit">`;
+  <p> 
+        The value of the option selected is: 
+        <span class="output"></span> 
+    </p> 
+  <button onclick="getOption()"> 
+        Submit
+    </button> `;
+  //<input type="submit" value="Submit">
         //<button onclick="myFunction()">Click me</button>
         //<input type="submit" value="Submit">
 //Instead I would create the <button> directly with createElement() and then add it to DOM with appendChild()
@@ -220,12 +228,52 @@ dropDownList();
   
 // }
 // myFunction();
-function myFunction() {
+function getOption() { 
+    let productTotal = document.createElement("h2");
+//error with this total assignment
+            total = product.price + total;
+   
+            //productTotal.textContent = `Product Total: $${total}`;
+  selectElement =  
+          document.querySelector('#menuShipping'); 
+            
+  output = selectElement.value; 
+
+  document.querySelector('.output').textContent 
+          = output; 
+          
+
+          if (document.getElementById("#menuShipping").value = "USPS") {
+            productTotal.textContent = `Product Total: $${total + usps}`;
+          } else if (delivery === "UPS"){
+            productTotal.textContent = `Product Total: $${total + ups}`;
+         
+        
+          }
+          else if (document.getElementById("#menuShipping").value = "Ebay"){
+            productTotal.textContent = `Product Total: $${total + ebay}`;
+        // function myFunction() {
+        //   let delivery = document.createElement("delivery");
+        
+          }
+          else if (document.getElementById("#menuShipping").value = "Amazon"){
+            productTotal.textContent = `Product Total: $${total + amazon}`;
+        //   if (delivery === "USPS") {
+        //     productTotal.textContent = `Product Total: $${total + usps}`;
+        //   } else if (delivery === "UPS"){
+        //     productTotal.textContent = `Product Total: $${total + ups}`;
+        
+          }
+          else if (document.getElementById("#menuShipping").value = "FEDEX"){
+            productTotal.textContent = `Product Total: $${total + fedex}`;
+          }
+          outerwrapper.append(productTotal);
+
+} 
+getOption();
  // var x = document.getElementById("menuShipping").value;
   //document.getElementById("demo").innerHTML = "You selected: " + x;
   //productTotal.textContent = `Product Total: $${total + x}`;
  // document.getElementById("submitBttn").innerHTML = "You selected: " + x;
-}
-
-//https://stackoverflow.com/questions/21325576/how-to-remove-added-item-in-cart
+ 
 
