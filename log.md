@@ -1,33 +1,5 @@
-<!--# 100 Days Of Code - Log
+<!--# 100 Days Of Code - Log-->
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-<!--**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-<!--**Link to work:** [Calculator App](http://www.example.com)
-
-<!--### Day 0: February 30, 2016 (Example 2).    
-##### (delete me or comment me out)
-
-<!--**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-<!--**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-<!--**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-<!--### Day 1: Jan 27, Monday 
-
-<!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-<!--**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-<!--**Link(s) to work**
-<!--1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 # Day 3: Jan 13, Wed
 
@@ -58,8 +30,8 @@ I worked on my Eccomerce website. I got the shipping section to show again -earl
 
 
 
-# Day 4: Jan 14, Thurs
-**Today's Progress**: 
-**Thoughts**
-**Link(s) to work**
+# Day 6: Jan 16, Sat
+**Today's Progress**: I made progress on the shipping section as the specified option value will pop up with selectElement.textcontent. This link was helpful https://www.geeksforgeeks.org/how-to-get-selected-value-in-dropdown-list-using-javascript/#:~:text=Method%201%3A%20Using%20the%20value,then%20nothing%20will%20be%20returned. to learn about option values; how they work.
+**Thoughts** Today is Sunday, as I didnt start 'till 12:00am. It was hard to get started, but i'm glad I did, as it wasn't that hard once I did. I feel like I progressed, and I have an idea to make the product price + shipping value pop up. The last 6 min of coding I was pretty done though. gnight... Gmorning I mean.
+**Link(s) to work** file:///Users/joybradshaw/Desktop/finalproject/index.html
 
