@@ -35,3 +35,9 @@ I worked on my Eccomerce website. I got the shipping section to show again -earl
 **Thoughts** Today is Sunday, as I didnt start 'till 12:00am. It was hard to get started, but i'm glad I did, as it wasn't that hard once I did. I feel like I progressed, and I have an idea to make the product price + shipping value pop up. The last 6 min of coding I was pretty done though. gnight... Gmorning I mean.
 **Link(s) to work** file:///Users/joybradshaw/Desktop/finalproject/index.html
 
+# Day 7: Jan 17, Sun
+**Today's Progress**:  I watched tutorials about Object Oriented Programming. Nathan Foreman reccomended I learn and implement that to my eccommerce website, so today I didn't code. Just unatentavely watched tutorials-no note taking. I did find this site, and I think i'll go through their page step-by-step homework tommarrow: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
+**Thoughts** I felt kind of lazy, half attentively watching vids about OOP in bed.
+**Link(s) to work** file:///Users/joybradshaw/Desktop/finalproject/index.html
+
