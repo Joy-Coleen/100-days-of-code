@@ -45,5 +45,5 @@ I worked on my Eccomerce website. I got the shipping section to show again -earl
 **Today's Progress**: I followed the guide over Objects https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise. Learned about names and values in objects and how you can make properties and methods inside objects. Also how to find, or make properties and objects inside JavaScript Console.
 
 **Thoughts** It was informative. I like Mozzillas guide on this so far.
-**Link(s) to work** file:///Users/joybradshaw/learning-about-objects/index.html
+**Link(s) to work** https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
 
