@@ -47,3 +47,8 @@ I worked on my Eccomerce website. I got the shipping section to show again -earl
 **Thoughts** It was informative. I like Mozzillas guide on this so far.
 **Link(s) to work** https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
 
+# Day 9: Jan 19, Tues
+**Today's Progress**: I followed the guide over Objects https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics Learned about .this, replacing object name for convenience, how objects and the Document Object Model function the same. Eg.) document.createELement, the .createElement is accessing a method for the document.
+**Thoughts** It was informative. I like Mozzillas guide on this so far. I will continue going through mozillas guides on objects.
+**Link(s) to work** https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics this one will be tommarrows personal project/homework https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Test_your_skills:_Object_basics
+
