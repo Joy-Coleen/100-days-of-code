@@ -52,3 +52,8 @@ I worked on my Eccomerce website. I got the shipping section to show again -earl
 **Thoughts** It was informative. I like Mozzillas guide on this so far. I will continue going through mozillas guides on objects.
 **Link(s) to work** https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics this one will be tommarrows personal project/homework https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Test_your_skills:_Object_basics
 
+# Day 10: Jan 20, Wed
+**Today's Progress**:  I made a bare bones portfolio, for my class tommarrow. I followed Dani Krossings tutorial: 12: How to Create Links in HTML | Basics of CSS | Learn HTML and CSS | HTML Tutorial 
+**Thoughts** I am pleased with the turn out. It was fun to do, as it was easier for me than expected. It's made me realize that I have improved. I think I won't drop that class after all but stick to my guns.
+**Link(s) to work** Portfolio: file:///Users/joybradshaw/Desktop/make-portfolio/index.html
+tutorial link: https://www.youtube.com/watch?v=DiSvq5SgLMI
