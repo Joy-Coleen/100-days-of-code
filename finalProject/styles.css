@@ -4,22 +4,49 @@
 
 html {
     /* background-color: #eee; */
-    background-color: #382a27;
+    background-color: #011116;
 }
-
+button {
+    background-color: #a3e7fc;  /* Green */
+    border: none;
+    color: #382a27;  
+    padding: 7px;
+    text-align: center;
+    text-decoration: none;
+  
+    font-size: 16px;
+    margin: 8px 2px;
+    cursor: pointer;
+    display: inline-block;
+  
+    border-radius: 4px;
+  }
+  #menuShipping {background-color:#fac9b8; /* Green */
+    border: none;
+    color: #382a27; 
+    /*color: #ffe6a7;*/
+    padding: 2px;
+    text-align: center;
+    text-decoration: none;
+  
+    font-size: 16px;
+    margin: 8px 2px;
+    cursor: pointer;
+    display: inline-block;}
 h1 {
     text-align: center;
     /* color: #00be4f; */
     /* color: #382a27; */
-    color: #ffe6a7;
+    color: #a3e7fc;
+    font-size: 40px;
 }
-h2 { color: black; }
+h2 { color: #a3e7fc; }
 
 p {
     text-align: justify;
     /* color: #00be4f; */
     /* color: #382a27; */
-    color: #432818;
+    color: #fac9b8;
 }
 
 /*to make images flexible*/
@@ -28,10 +55,19 @@ img {
     max-width: 100%;
     /* height: auto; */
 }
-
+#coffeeShopName {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("coffee-beans.jpg");
+    height: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0.5em 1.5em;
+    width: 90%;
+    margin: 0 auto;
+  }
 #outerwrapper {
     width: 90%;
     margin: 0 auto;
     padding: 0.5em 1.5em;
-    background-color: #ffe6a7;
+    background-color:#382a27;
 }
