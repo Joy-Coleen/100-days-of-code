@@ -64,6 +64,11 @@ tutorial link: https://www.youtube.com/watch?v=DiSvq5SgLMI
 
 
 
+# Day 12
+**Today's Progress**:struggled some more with Objects
+**Thoughts**  Stuck on problem 2
+**Link(s) to work**https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics 
+
 # Day 
 **Today's Progress**:
 **Thoughts** 
