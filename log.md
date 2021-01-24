@@ -57,7 +57,7 @@ I worked on my Eccomerce website. I got the shipping section to show again -earl
 **Thoughts** I am pleased with the turn out. It was fun to do, as it was easier for me than expected. It's made me realize that I have improved. I think I won't drop that class after all but stick to my guns.
 **Link(s) to work** Portfolio: file:///Users/joybradshaw/Desktop/make-portfolio/index.html
 tutorial link: https://www.youtube.com/watch?v=DiSvq5SgLMI
-# Day 11: Jan 21, Wed
+# Day 11: Jan 21, Thurs
 **Today's Progress**: Today I worked on my Shopping Cart project. Specifically aesthetics with adding images, and changing styles in CSS.
 **Thoughts**  The portfolio and this was kind of for school, so bending the rules there, but working on the aesthetics was satifsying for the shopping cart, as I like the outcome.
 **Link(s) to work**file:///Users/joybradshaw/Desktop/make-portfolio/finalproject/index.html
@@ -68,6 +68,11 @@ tutorial link: https://www.youtube.com/watch?v=DiSvq5SgLMI
 **Today's Progress**:struggled some more with Objects
 **Thoughts**  Stuck on problem 2
 **Link(s) to work**https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics 
+
+# Day 13 Jan 23, Sat
+**Today's Progress**: Today I worked on setting up a web host -cSpan
+**Thoughts** I wasn't succesful. It's through the school, so I need to email the professor and ask for help as my student account info didn't work.
+**Link(s) to work**
 
 # Day 
 **Today's Progress**:
