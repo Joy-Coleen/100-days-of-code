@@ -74,6 +74,11 @@ tutorial link: https://www.youtube.com/watch?v=DiSvq5SgLMI
 **Thoughts** I wasn't succesful. It's through the school, so I need to email the professor and ask for help as my student account info didn't work.
 **Link(s) to work**
 
+# Day 14 Jan 25 Mon
+**Today's Progress**: Today I did some research into the web 290 class i'm taking and finally figured out (with assistance of vs code) how to do that problem 2 with Mozilla lesson on objects.
+**Thoughts** Worried about web 290 class, more than accomplishing anything.
+**Link(s) to work** https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
+
 # Day 
 **Today's Progress**:
 **Thoughts** 
