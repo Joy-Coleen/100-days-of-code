@@ -79,6 +79,14 @@ tutorial link: https://www.youtube.com/watch?v=DiSvq5SgLMI
 **Thoughts** Worried about web 290 class, more than accomplishing anything.
 **Link(s) to work** https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
 
+# Day 15 Jan 26 Tuesday
+**Today's Progress**: Today I FINALLY was able to git fetch, pull, git add --all, git commit, and git push a folder inside the #100DaysOfCode Repo. Quite an accomplishment for me. I also am reading Mozillas guide on Objects and Constructor functions where you create one function with names, and you can create others, that will use the 1st functions names, while implementing its own values.
+**Thoughts** Today was a good day. I started at 4:00pm instead of the usual, 9 or 10pm. I have a start time every day for 3:15 p.m. now.
+**Link(s) to work**
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
+
+file:///Users/joybradshaw/100-days-of-code/mozilla-guide/oop.html
+
 # Day 
 **Today's Progress**:
 **Thoughts** 
