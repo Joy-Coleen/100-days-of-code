@@ -1,33 +1,73 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <title>Object-oriented JavaScript example</title>
   </head>
 
   <body>
-    <p>This example requires you to enter commands in your browser's JavaScript console (see <a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools">What are browser developer tools</a> for more information).</p>
-
+    <p>
+      This example requires you to enter commands in your browser's JavaScript
+      console (see
+      <a
+        href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools"
+        >What are browser developer tools</a
+      >
+      for more information).
+    </p>
   </body>
 
-    <script>
+  <script>
+    function Person(first, last, age, gender, interests) {
+      this.name = {
+        first: first,
+        last: last,
+      };
+      this.age = age;
+      this.gender = gender;
+      this.interests = interests;
+      this.bio = function () {
+        var string = this.name.first + " " + this.name.last + " is " + this.age +" years old .";
+        var pronoun;
+        if (this.gender === "male" || this.gender === "Male" || this.gender === "M" || this.gender === "m") {
+          pronoun = "He likes ";
+        } else if (this.gender === "female" || this.gender === "Female" || this.gender === "F" || this.gender === "f") {
+          pronoun = "She likes";
+        } else {
+          pronoun = "They like";
+        }
+        string += pronoun;
+        // He likes ' + this.interests[0] + ' and ' + this.interests[1] + '.');
 
-function Person(first, last, age, gender, interests) {
-  this.name = {
-     first : first,
-     last : last
-  };
-  this.age = age;
-  this.gender = gender;
-  this.interests = interests;
-  this.bio = function() {
-    alert(this.name.first + ' ' + this.name.last + ' is ' + this.age + ' years old. He likes ' + this.interests[0] + ' and ' + this.interests[1] + '.');
-  };
-  this.greeting = function() {
-    alert('Hi! I\'m ' + this.name.first + '.');
-  };
-}
-let person1 = new Person('Bob', 'Smith', 32, 'male', ['music', 'skiing']);
+        if (this.interests.length === 1) {
+          string += this.interests[0] + ".";
+        } else if (this.interests.length === 2) {
+          string += this.interests[0] + " and " + this.interests[1] + ".";
+        } else {
+          // if there are more than 2 interests, we loop through them
+          // all, adding each one to the main string followed by a comma,
+          // except for the last one, which needs an and & a full stop
+          for (var i = 0; i < this.interests.length; i++) {
+            if (i === this.interests.length - 1) {
+              string += "and " + this.interests[i] + ".";
+            } else {
+              string += this.interests[i] + ", ";
+            }
+          }
+        }
 
-    </script>
+        // finally, with the string built, we alert() it
+        alert(string);
+      };
+
+      this.greeting = function () {
+        alert("Hi! I'm " + this.name.first + ".");
+      };
+    }
+    let person1 = new Person("Bob", "Smith", 32, "male", ["music", "skiing", "journaling"]);
+    let person2 = new Person("Hellen", "Smith", 32, "female", [
+      "music",
+      "skiing",
+    ]);
+  </script>
 </html>
