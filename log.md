@@ -87,7 +87,13 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriente
 
 file:///Users/joybradshaw/100-days-of-code/mozilla-guide/oop.html
 
+# Day 16 Jan 27 Wed
+**Today's Progress**: Today I worked on oop with Mozilla again. I added if else statements and a for loop to code
+**Thoughts** 
+**Link(s) to work** https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
+
 # Day 
 **Today's Progress**:
 **Thoughts** 
 **Link(s) to work**
+
