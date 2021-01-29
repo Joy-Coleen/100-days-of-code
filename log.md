@@ -92,8 +92,15 @@ file:///Users/joybradshaw/100-days-of-code/mozilla-guide/oop.html
 **Thoughts** 
 **Link(s) to work** https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
 
+# Day 17 jan 28 Thurs
+**Today's Progress**: Learned about Object prototypes sortof which are like methods that you can put in a seperate function and yet use as part of object, by denoting it by object name.
+**Thoughts** experiencing coding burnout here.
+**Link(s) to work** https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes
+file:///Users/joybradshaw/100-days-of-code/mozilla-guide/oop.html
+
 # Day 
 **Today's Progress**:
 **Thoughts** 
 **Link(s) to work**
+
 
