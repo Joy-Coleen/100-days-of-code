@@ -98,9 +98,19 @@ file:///Users/joybradshaw/100-days-of-code/mozilla-guide/oop.html
 **Link(s) to work** https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes
 file:///Users/joybradshaw/100-days-of-code/mozilla-guide/oop.html
 
+# Day 18 jan 29 Fri
+**Today's Progress**: I learned about inheritance with Objects and their constructors.
+**Thoughts** Will have to review how prototypes and inheritance works-last 2 articles. Studying for an hour was not too difficult today- I was in the zone. Also, using the terminal and doing every day tasks has become easy for me.
+**Link(s) to work** article:
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance
+my code: file:///Users/joybradshaw/100-days-of-code/mozilla-guide/inheritanceStart.html
+
 # Day 
 **Today's Progress**:
 **Thoughts** 
 **Link(s) to work**
 
-
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
