@@ -11,6 +11,8 @@
 //step 9 -- add shipppingCost event listener
 
 //step 1 -- create an array of menu objects ✌
+//gameplan: find JAvaScript 2 book, and read section on how to make a shopping cart. 
+//Later, (or if needed) go back and study mozilla guide on DOM and Object Oriented Programming.
 let menu = [
   {
     id: 1,
@@ -144,6 +146,7 @@ menu.forEach(menuMapper);
 
 //to make drop down list
 //global variables for list
+let shippingTotal = 0;
 let usps = 0;
   let ups = 5;
   let ebay = 20;
@@ -153,15 +156,7 @@ function dropDownList() {
   // -- Create Shopping Cart Item
   //console.log('I was clicked');
   let delivery = document.createElement("delivery");
-  //delivery.id = 'companyDeliveryName';
-  //delivery.className = 'drinks';
-  // delivery.innerHTML = `<select name="drinks" id="drinkMenu">
-  //                         <option value="UpliftCoffee">UpliftCoffee</option>
-  //                         <option value="johnnys">johnnys</option>
-  //                         <option value="dailywire">dailycoffee</option>
-  //                         <option value="coriander">tea</option>
-  //                      </select>
-  //                      <input type="submit" value="Submit">`;
+  
   delivery.innerHTML = `<label for="drinks">Shipping:</label>
   <select id="menuShipping">
     <option value="USPS">USPS: free</option>
@@ -204,59 +199,32 @@ function dropDownList() {
 }
 dropDownList();
 
-// function myFunction() {
-//   let delivery = document.createElement("delivery");
-
-//   if (delivery === "USPS") {
-//     productTotal.textContent = `Product Total: $${total + usps}`;
-//   } else if (delivery === "UPS"){
-//     productTotal.textContent = `Product Total: $${total + ups}`;
-
-//   }
-//   else if (delivery === "Ebay"){
-//     productTotal.textContent = `Product Total: $${total + ebay}`;
-
-//   }
-//   else if (delivery === "Amazon"){
-//     productTotal.textContent = `Product Total: $${total + amazon}`;
-
-//   }
-//   else if (delivery === "FEDEX"){
-//     productTotal.textContent = `Product Total: $${total + value}`;
-
-//   }
-  
-// }
-// myFunction();
+/
 function getOption() { 
     let productTotal = document.createElement("h2");
 //error with this total assignment
-            total = product.price + total;
+  shippingTotal += menu.price;
    
-            //productTotal.textContent = `Product Total: $${total}`;
-  selectElement =  
-          document.querySelector('#menuShipping'); 
-            
+  productTotal.textContent = `Product Total: $${total}`;
+  let selectElement =  document.querySelector('#menuShipping');  
   output = selectElement.value; 
-
-  document.querySelector('.output').textContent 
-          = output; 
+  document.querySelector('.output').textContent = output; 
           
 
-          if (document.getElementById("#menuShipping").value = "USPS") {
+          if (document.getElementById("#menuShipping").value === "USPS") {
             productTotal.textContent = `Product Total: $${total + usps}`;
           } else if (delivery === "UPS"){
             productTotal.textContent = `Product Total: $${total + ups}`;
          
         
           }
-          else if (document.getElementById("#menuShipping").value = "Ebay"){
+          else if (document.getElementById("#menuShipping").value ==="Ebay"){
             productTotal.textContent = `Product Total: $${total + ebay}`;
         // function myFunction() {
         //   let delivery = document.createElement("delivery");
         
           }
-          else if (document.getElementById("#menuShipping").value = "Amazon"){
+          else if (document.getElementById("#menuShipping").value === "Amazon"){
             productTotal.textContent = `Product Total: $${total + amazon}`;
         //   if (delivery === "USPS") {
         //     productTotal.textContent = `Product Total: $${total + usps}`;
@@ -264,7 +232,7 @@ function getOption() {
         //     productTotal.textContent = `Product Total: $${total + ups}`;
         
           }
-          else if (document.getElementById("#menuShipping").value = "FEDEX"){
+          else if (document.getElementById("#menuShipping").value === "FEDEX"){
             productTotal.textContent = `Product Total: $${total + fedex}`;
           }
           outerwrapper.append(productTotal);
