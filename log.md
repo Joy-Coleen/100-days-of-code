@@ -105,6 +105,16 @@ file:///Users/joybradshaw/100-days-of-code/mozilla-guide/oop.html
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance
 my code: file:///Users/joybradshaw/100-days-of-code/mozilla-guide/inheritanceStart.html
 
+# Day 19 Jan 30 Sat
+**Today's Progress**: Studied Mozillas guide on Objects, where I left off, for 5 seconds and then worked on my shopping cart page.
+**Thoughts** It was hard because I didn't have a plan of action, but also encouraging, because I understood the code better and was able to fix some things. I think tommarrow my hour will largely be spent working on the site again while referencing the Textbook I used for JavaScript 2. That my plan of action.
+**Link(s) to work** file:///Users/joybradshaw/100-days-of-code/finalProject/index.html
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
 # Day 
 **Today's Progress**:
 **Thoughts** 
