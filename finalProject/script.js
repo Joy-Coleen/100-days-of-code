@@ -82,7 +82,7 @@ const menuMapper = (product) => {
     let productTotal = document.createElement("h2");
     console.log(productTotal);
     //product total here
-    total = product.price + total;
+    total += product.price;
     productTotal.textContent = `Product Total: $${total}`;
 
     outerwrapper.append(productTotal);
