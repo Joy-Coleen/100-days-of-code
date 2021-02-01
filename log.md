@@ -110,10 +110,10 @@ my code: file:///Users/joybradshaw/100-days-of-code/mozilla-guide/inheritanceSta
 **Thoughts** It was hard because I didn't have a plan of action, but also encouraging, because I understood the code better and was able to fix some things. I think tommarrow my hour will largely be spent working on the site again while referencing the Textbook I used for JavaScript 2. That my plan of action.
 **Link(s) to work** file:///Users/joybradshaw/100-days-of-code/finalProject/index.html
 
-# Day 
-**Today's Progress**:
+# Day 20 Jan 31 Sun
+**Today's Progress**: Studied JavaScript & JQuery book and learned a bit about DOM and nodes. Will reference for shopping cart. Youtubed wireframes. Will I use Bootstrap? Maybe for HTML and CSS 2 for client I will.
 **Thoughts** 
-**Link(s) to work**
+**Link(s) to work** 
 
 # Day 
 **Today's Progress**:
