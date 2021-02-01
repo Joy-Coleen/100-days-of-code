@@ -199,7 +199,7 @@ function dropDownList() {
 }
 dropDownList();
 
-/
+
 function getOption() { 
     let productTotal = document.createElement("h2");
 //error with this total assignment
