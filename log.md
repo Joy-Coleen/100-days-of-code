@@ -115,10 +115,10 @@ my code: file:///Users/joybradshaw/100-days-of-code/mozilla-guide/inheritanceSta
 **Thoughts** 
 **Link(s) to work** 
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
-**Link(s) to work**
+# Day 21 Feb 1 Mon
+**Today's Progress**: Watched a couple YouTubes on Vanilla CSS vs Component Frameworks (like BootStrap) and Utiltiy Frameworks(like Tailwind) and pros and cons of each. Vanilla is most flexible, Bootstrap is the quickest route, but least flexible with styling as everything's prestyled for you, and Tailwind is the medium between the two.
+**Thoughts** Upon suggestion by Prof. Baxter for HTML and CSS 2 for client, I am considering using the bootstrap framework.
+**Link(s) to work** https://www.youtube.com/watch?v=vmXIGdP8KN8
 
 # Day 
 **Today's Progress**:
