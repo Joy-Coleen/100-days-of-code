@@ -120,6 +120,61 @@ my code: file:///Users/joybradshaw/100-days-of-code/mozilla-guide/inheritanceSta
 **Thoughts** Upon suggestion by Prof. Baxter for HTML and CSS 2 for client, I am considering using the bootstrap framework.
 **Link(s) to work** https://www.youtube.com/watch?v=vmXIGdP8KN8
 
+# Day 22 Feb 2 Tues
+**Today's Progress**: bootstrap
+**Thoughts** started lynda.com tutorial on bootstrap.
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
 # Day 
 **Today's Progress**:
 **Thoughts** 
