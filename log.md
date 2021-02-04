@@ -123,12 +123,12 @@ my code: file:///Users/joybradshaw/100-days-of-code/mozilla-guide/inheritanceSta
 # Day 22 Feb 2 Tues
 **Today's Progress**: bootstrap
 **Thoughts** started lynda.com tutorial on bootstrap.
-**Link(s) to work**
+**Link(s) to work** 
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
-**Link(s) to work**
+# Day 23 Feb 3 Wed
+**Today's Progress**: Worked on Bootstrap following Lynda tutorial
+**Thoughts** It's not so bad once you get everything installed
+**Link(s) to work** file:///Users/joybradshaw/Desktop/Ex_Files_Bootstrap_EssT_Upd_2020_Q3/Exercise%20Files/02_05b/index.html#
 
 # Day 
 **Today's Progress**:
