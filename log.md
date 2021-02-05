@@ -130,10 +130,10 @@ my code: file:///Users/joybradshaw/100-days-of-code/mozilla-guide/inheritanceSta
 **Thoughts** It's not so bad once you get everything installed
 **Link(s) to work** file:///Users/joybradshaw/Desktop/Ex_Files_Bootstrap_EssT_Upd_2020_Q3/Exercise%20Files/02_05b/index.html#
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
-**Link(s) to work**
+# Day 24 Feb 4 Thurs
+**Today's Progress**: Started module 3 of Lynda.com course for Bootstrap w/ Ray Villalabos. 
+**Thoughts** He's a good instructor. I feel like it's going to be like using wordpress. Super easy! Fingers crossed. But following a tutorial is always so much easier than doing it yourself so we'll see.
+**Link(s) to work** .....
 
 # Day 
 **Today's Progress**:
