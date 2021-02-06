@@ -135,9 +135,9 @@ my code: file:///Users/joybradshaw/100-days-of-code/mozilla-guide/inheritanceSta
 **Thoughts** He's a good instructor. I feel like it's going to be like using wordpress. Super easy! Fingers crossed. But following a tutorial is always so much easier than doing it yourself so we'll see.
 **Link(s) to work** .....
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
+# Day 25
+**Today's Progress**: worked on project 1 for web 240. Inserted bootstrap refs/stylesheets.
+**Thoughts** Everything made sense prof wanted us to put into code... And then there was itemprop. No idea.
 **Link(s) to work**
 
 # Day 
