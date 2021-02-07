@@ -140,10 +140,11 @@ my code: file:///Users/joybradshaw/100-days-of-code/mozilla-guide/inheritanceSta
 **Thoughts** Everything made sense prof wanted us to put into code... And then there was itemprop. No idea.
 **Link(s) to work**
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
-**Link(s) to work**
+# Day 26 Feb 6 Sat
+**Today's Progress**: Today I worked on the fairyportraitstudios project. Specifically, I learned about and worked on the itemScope which contains itemType and itemProps.
+**Thoughts** Today was a good day, because what these properties are for finally clicked (after watching a video). They tell the computer what specific text contains, which allows for browsers like Google to use this information on it's site, which allows for better search engine optimization - SEO. Yes, I now know what that means.
+**Link(s) to work** file:///Users/joybradshaw/Desktop/web240/index.html
+vid on how to use microdata: https://www.youtube.com/watch?v=YXpzHJl0iiA
 
 # Day 
 **Today's Progress**:
