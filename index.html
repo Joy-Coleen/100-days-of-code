@@ -1,0 +1,124 @@
+<!-- Joy Bradshaw 2/4/2021 -->
+<!-- Instructions: Using your client selection, produce a HTML5 page to include the following components. 
+
+    Html  D
+    Head   D
+    Body   D
+    Header D
+    Nav D
+    Footer D
+    Aside D
+    Section
+    Article
+    Itemprop - See Lesson Tips and Tricks for more information
+    Div
+    H1 and necessary subheaders (h2, h3….) -->
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <title>Bootstrap</title>
+        <title>Document</title>
+    </head>
+    <body>
+        <header>
+
+        </header>
+        <nav>
+            <a href="/html/">HTML</a> |
+            <a href="/css/">CSS</a> |
+            <a href="/js/">JavaScript</a> |
+            <a href="/python/">Python</a>
+         </nav>
+         <section>
+            <h2>WWF History</h2>
+            <p>The World Wide Fund for Nature (WWF) is an international organization working on issues regarding the conservation, research and restoration of the environment, formerly named the World Wildlife Fund. WWF was founded in 1961.</p>
+            <article>
+                <h2>Google Chrome</h2>
+                <p>Google Chrome is a web browser developed by Google, released in 2008. Chrome is the world's most popular web browser today!</p>
+              </article>
+          </section>
+          <!-- article nested inside section -->
+
+          <section>
+            <h2>WWF's Symbol</h2>
+            <p>The Panda has become the symbol of WWF. The well-known panda logo of WWF originated from a panda named Chi Chi that was transferred from the Beijing Zoo to the London Zoo in the same year of the establishment of WWF.</p>
+          </section>
+
+         <aside>
+            <h4>Epcot Center</h4>
+            <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+          </aside>
+          <h1>The article element</h1>
+
+<article>
+  <h2>Google Chrome</h2>
+  <p>Google Chrome is a web browser developed by Google, released in 2008. Chrome is the world's most popular web browser today!</p>
+  <section>
+    <h2>WWF's Symbol</h2>
+    <p>The Panda has become the symbol of WWF. The well-known panda logo of WWF originated from a panda named Chi Chi that was transferred from the Beijing Zoo to the London Zoo in the same year of the establishment of WWF.</p>
+  </section>
+</article>
+          <!-- section nested inside of an article-->
+
+<article>
+  <h2>Mozilla Firefox</h2>
+  <p>Mozilla Firefox is an open-source web browser developed by Mozilla. Firefox has been the second most popular web browser since January, 2018.</p>
+</article>
+<!-- <div itemscope itemtype="http://schema.org/Movie">
+    <h1 itemprop="name">Avatar</h1>
+    <span>Director:
+      <span itemprop="director">James Cameron</span>
+      (born August 16, 1954)</span>
+    <span itemprop="genre">Science fiction</span>
+    <a href="../movies/avatar-theatrical-trailer.html"
+      itemprop="trailer">Trailer</a>
+  </div> -->
+  <div itemscope>
+    <p>My name is <span itemprop="name">Neil</span>.</p>
+    <p>My band is called <span itemprop="band">Four Parts Water</span>.</p>
+    <p>I am <span itemprop="nationality">British</span>.</p>
+   </div>
+        <footer>
+            <section itemscope itemtype="https://example.org/animals#cat">
+                <h1 itemprop="name https://example.com/fn">Hedral</h1>
+                <p itemprop="desc">Hedral is a male american domestic
+                shorthair, with a fluffy <span
+                itemprop="https://example.com/color">black</span> fur with <span
+                itemprop="https://example.com/color">white</span> paws and belly.</p>
+                <img itemprop="img" src="hedral.jpeg" alt="" title="Hedral, age 18 months">
+               </section>
+<!-- aggregate rating -->
+               <section itemscope itemtype="https://example.org/animals#cat">
+                <h1 itemprop="name https://example.com/fn">Hedral</h1>
+                <p itemprop="desc">Hedral is a male american domestic
+                shorthair, with a fluffy <span
+                itemprop="https://example.com/color">black</span> fur with <span
+                itemprop="https://example.com/color">white</span> paws and belly.</p>
+                <img itemprop="img" src="hedral.jpeg" alt="" title="Hedral, age 18 months">
+               </section>
+               <!-- postal address -->
+        </footer>
+
+       Image:
+        <!-- <img src="janedoe.jpg" alt="Photo of Jane Doe"/> -->
+
+        <div itemscope itemtype="https://schema.org/LocalBusiness">
+            <h1><span itemprop="name">Fairy Portrait Studios &amp; Photography</span></h1>
+            <span itemprop="description"> Let's capture the beauty of your child today!</span>
+            <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+              <span itemprop="streetAddress">2340 FL-580 suite x</span>
+              <span itemprop="addressLocality">Clearwater</span>,
+              <span itemprop="addressRegion">FL</span>
+              <span itemprop="postalCode">33763</span>
+            </div>
+            Phone: <span itemprop="telephone">727-488-1830</span>
+            E-mail: <span itemprop="email"><a href="mailto:skleiman70@gmail.com">E-mail Us</a></span>
+          </div>
+    </body>
+    </html>
+
