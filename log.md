@@ -146,10 +146,10 @@ my code: file:///Users/joybradshaw/100-days-of-code/mozilla-guide/inheritanceSta
 **Link(s) to work** file:///Users/joybradshaw/Desktop/web240/index.html
 vid on how to use microdata: https://www.youtube.com/watch?v=YXpzHJl0iiA
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
-**Link(s) to work**
+# Day 27 Feb 7 Sun
+**Today's Progress**: I worked on the Fairy Portrait Studios Website. Just adding content of existing page to my html structure to begin with, before adding and changing it.
+**Thoughts** Slow, not as productive as I could have been. Also tired, as I started at 9:30pm.
+**Link(s) to work** http://127.0.0.1:5500/index.html
 
 # Day 
 **Today's Progress**:
