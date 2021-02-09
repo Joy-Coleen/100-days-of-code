@@ -151,10 +151,11 @@ vid on how to use microdata: https://www.youtube.com/watch?v=YXpzHJl0iiA
 **Thoughts** Slow, not as productive as I could have been. Also tired, as I started at 9:30pm.
 **Link(s) to work** http://127.0.0.1:5500/index.html
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
-**Link(s) to work**
+# Day 28 Feb 8 Mon
+**Today's Progress**: Worked on fairy project website
+**Thoughts** Studied and used sections-more specific than divs as they contain elements that are semantically connected, articles-more specific than sections as elements in it could semantically stand alone, and divs-containers made to target elements for css.
+**Link(s) to work** http://127.0.0.1:5500/index.html
+article about containers: https://bitsofco.de/the-style-element/
 
 # Day 
 **Today's Progress**:
