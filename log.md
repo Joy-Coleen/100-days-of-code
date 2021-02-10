@@ -157,10 +157,10 @@ vid on how to use microdata: https://www.youtube.com/watch?v=YXpzHJl0iiA
 **Link(s) to work** http://127.0.0.1:5500/index.html
 article about containers: https://bitsofco.de/the-style-element/
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
-**Link(s) to work**
+# Day 29 Feb 9 Tues
+**Today's Progress**: Worked on Fairy Project. Added bootstrap stuff
+**Thoughts** It was fun experimenting with colors and features. This page is going to be alot of fun.
+**Link(s) to work** http://127.0.0.1:5500/index.html
 
 # Day 
 **Today's Progress**:
