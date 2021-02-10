@@ -20,13 +20,26 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <!-- <link rel="stylesheet" href="css/bootstrap.min.css"> -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
+      crossorigin="anonymous"
+    ></script>
+
     <title>Bootstrap</title>
     <title>Document</title>
   </head>
@@ -37,11 +50,12 @@
       </h1>
     </header>
     <nav>
-      <a href="/html/">HTML</a> | <a href="/css/">CSS</a> |
+      <a class="text-warning  text-decoration-none" href="/html/">HTML</a> | <a href="/css/">CSS</a> |
       <a href="/js/">JavaScript</a> |
       <a href="/python/">Python</a>
     </nav>
-    <!-- navigation menu -->
+
+    <!-- navigation menu  make it into unordered list-->
     <section>
       <h2>Who we are</h2>
       <h2>
@@ -51,28 +65,35 @@
       <img src="top_image.jpg" alt="fantasy fairy land forest" />
     </section>
 
-  <section>
-  <img src="image1.jpg" alt="fairy model" />
+    <section>
+      <img src="image1.jpg" alt="fairy model" />
 
-<h2>Dear Mom and Dad:</h2>
+      <h2 class="text-danger">Dear Mom and Dad:</h2>
       <p>
-          Children grow up very fast! The best way to
-        preserve these youthful moments in time is with professional portraits.
+        Children grow up very fast! The best way to preserve these youthful
+        moments in time is with professional portraits.
       </p>
       <p>
         We have been blessed to capture precious memories of children for over
         forty years. Time moves so quickly and childhood is so fleeting that
         it's gone before we know it!!
       </p>
-      <p>
+      <div class="container">
+      <blockquote class = "blockquote bg-dark text-white">
         When you reach our ages you really appreciate pictures that have frozen
         moments in time for you. Nothing can do this like professional
         portraits! Childhood portraits of your children are the only way those
         times of wonder and excitement can be remembered.
-      </p>
+     
+        <div class="blockquote-footer"> JDoe</div>
+      </div>
+      </blockquote>
+    
     </section>
-      <!-- section -->
-      <section><img src="image2.jpg" alt="fairy model" />
+  
+    <!-- section -->
+    <section>
+      <img src="image2.jpg" alt="fairy model" />
       <p>
         When parents come and view their pictures after they are taken in our
         "Magical Fairy Forest" with the beautiful fairy dresses and wings we
@@ -87,16 +108,21 @@
         Princess. Boys like to play Robin Hood and go fishing. The added special
         effects that our artists create will take your breath away. Remember we
         allow a full thirty minutes or longer to work with each child.
-      </p></section>
-      <!-- possible section -->
-      <section><img src="image3.jpg" alt="fairy model" />
+      </p>
+    </section>
+    <!-- possible section -->
+    <section>
+      <figure class="figure"> 
+        <!-- Use a <figure> element to mark up a photo in a document, and a <figcaption> element to define a caption for the photo: -->
+      <img class ="img-fluid rounded " src="image3.jpg" alt="fairy model" />
 
-      <p>
+   <figcaption class="figure-caption"> <p>
         From the time you enter the studio and see our Mystical Forest, along
         with our custom created fairy dresses and wings, the outside world is
         left behind. All little girls (and some Moms too) want to be fairy
         princesses.
       </p>
+    </figcaption>
       <p>
         Nina and I, by the way, my name is Steve, have been doing portraits of
         babies, children and families for over 40 years. It's the best job
@@ -111,10 +137,12 @@
         dresses, our artists add amazing special effects to enhance the fairy
         mood and scene.
       </p>
+    </figure>
     </section>
-      <!-- possible section -->
+    <!-- possible section -->
 
-      <section><img src="image4.jpg" alt="fairy model" />
+    <section>
+      <img src="image4.jpg" alt="fairy model" />
       <h2>
         These will be the finest portraits of your child that you have ever had
         taken!!
@@ -139,7 +167,8 @@
       <p>When you leave the session you will be excited to see the results.</p>
       <!-- possible section -->
     </section>
-      <section><img src="image5.jpg" alt="fairy model" />
+    <section>
+      <img src="image5.jpg" alt="fairy model" />
       <h2>Time moves so fast</h2>
       <h2>
         In just a matter of weeks and months children change so quickly, so
@@ -173,68 +202,69 @@
       <p>
         Hold on to these precious memories and avoid having to say, "I wish I
         had had her picture taken when she was..." (so and so age)
-      </p></section>
-      <!-- possible section -->
-      <section>
-        <h2>OUR UNBELIEVABLE GUARANTEE!!</h2>
-        <p>
-          If someone creates the best portrait of your child you ever had taken
-          what would it be worth to you?
-        </p>
-        <p>
-          These memories are priceless. you can find a cheaper photographer but
-          we need to think about other things
-        </p>
+      </p>
+    </section>
+    <!-- possible section -->
+    <section>
+      <h2>OUR UNBELIEVABLE GUARANTEE!!</h2>
+      <p>
+        If someone creates the best portrait of your child you ever had taken
+        what would it be worth to you?
+      </p>
+      <p>
+        These memories are priceless. you can find a cheaper photographer but we
+        need to think about other things
+      </p>
 
-        <p>
-          A $249 Creation Fee gives you the opportunity to schedule an
-          appointment and select your favorite pose.
-        </p>
+      <p>
+        A $249 Creation Fee gives you the opportunity to schedule an appointment
+        and select your favorite pose.
+      </p>
 
-        <p>
-          Remember this magical fantasy portrait is an 8-1/2 x 11
-          GLOW-IN-THE-DARK portrait you can give to your child as a gift.
-        </p>
+      <p>
+        Remember this magical fantasy portrait is an 8-1/2 x 11 GLOW-IN-THE-DARK
+        portrait you can give to your child as a gift.
+      </p>
 
-        <p>
-          We create works of art that capture your Little Princess at the best
-          time of her life.
-        </p>
-        <ol>
-          <li>
-            We offer a Complete 100% money-back unconditional guarantee!! If you
-            are not thrilled with your portraits, you receive all of your money
-            back. NO QUESTIONS ASKED!
-          </li>
-          <li>
-            You not only get all of your money back but you will also receive
-            your FREE PORTRAIT at no charge.
-          </li>
-          <li>
-            We guarantee that these unique fairy portrait creations will touch
-            your heart and bring tears to your eyes or you simply don't pay for
-            them.
-          </li>
-        </ol>
+      <p>
+        We create works of art that capture your Little Princess at the best
+        time of her life.
+      </p>
+      <ol>
+        <li>
+          We offer a Complete 100% money-back unconditional guarantee!! If you
+          are not thrilled with your portraits, you receive all of your money
+          back. NO QUESTIONS ASKED!
+        </li>
+        <li>
+          You not only get all of your money back but you will also receive your
+          FREE PORTRAIT at no charge.
+        </li>
+        <li>
+          We guarantee that these unique fairy portrait creations will touch
+          your heart and bring tears to your eyes or you simply don't pay for
+          them.
+        </li>
+      </ol>
 
-        <p>How can we make such an unbelievable GUARANTEE?</p>
+      <p>How can we make such an unbelievable GUARANTEE?</p>
 
-        <p>
-          We know from experience that we have been able to create the most
-          outstanding, unique original images you have ever seen.
-        </p>
-        <p>
-          School photographers allow about 5 minutes to photograph a child, and
-          chain store photographers allow a short amount of time (depending on
-          the line).
-        </p>
-        <p>
-          We schedule by appointment and allow at least 30 minutes for each
-          session. All time and attention to detail will be given to you and
-          your children to create the best portraits you have ever had.
-        </p>
-      </section>
-      
+      <p>
+        We know from experience that we have been able to create the most
+        outstanding, unique original images you have ever seen.
+      </p>
+      <p>
+        School photographers allow about 5 minutes to photograph a child, and
+        chain store photographers allow a short amount of time (depending on the
+        line).
+      </p>
+      <p>
+        We schedule by appointment and allow at least 30 minutes for each
+        session. All time and attention to detail will be given to you and your
+        children to create the best portraits you have ever had.
+      </p>
+    </section>
+
     <footer></footer>
 
     <div itemscope itemtype="https://schema.org/LocalBusiness">
@@ -262,9 +292,13 @@
       </div>
       Phone: <span itemprop="telephone">727-488-1830</span> E-mail:
       <span itemprop="email"
-        ><a href="mailto:skleiman70@gmail.com">E-mail Us</a></span>
+        ><a href="mailto:skleiman70@gmail.com">E-mail Us</a></span
+      >
     </div>
     <!-- Itemprop - See Lesson Tips and Tricks for more information -->
+    <script src="js/jquery.slim.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
   </body>
 </html>
 
