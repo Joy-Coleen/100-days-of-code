@@ -167,9 +167,9 @@ article about containers: https://bitsofco.de/the-style-element/
 **Thoughts** It's fun, but I hope this pulls together to make a beautiful sight cuz right now kindof ugly.
 **Link(s) to work** http://127.0.0.1:5500/index.html
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
+# Day 31 Feb 11 Thurs
+**Today's Progress**: Worked on bootstrap
+**Thoughts**  VERY unproductive. (10:15) Just wanted to finish and sleep
 **Link(s) to work**
 
 # Day 
