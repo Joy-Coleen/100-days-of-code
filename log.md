@@ -172,9 +172,9 @@ article about containers: https://bitsofco.de/the-style-element/
 **Thoughts**  VERY unproductive. (10:15) Just wanted to finish and sleep
 **Link(s) to work**
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
+# Day 32 Feb 12 Fri
+**Today's Progress**: Worked on bootstrap. I got columns to work. It was a div in the wrong place earlier ):
+**Thoughts** Happy Lunar New Year! 
 **Link(s) to work**
 
 # Day 
