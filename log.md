@@ -177,6 +177,76 @@ article about containers: https://bitsofco.de/the-style-element/
 **Thoughts** Happy Lunar New Year! 
 **Link(s) to work**
 
+# Day 33 Feb 13 Sat
+**Today's Progress**: Worked on bootstrap. His teaching -abbreviations specifically- are making more sense now. Started experimenting a bit with his code. It was fun.
+**Thoughts** 7:50 -8:50pm is my golden hour of work? Definitely no later than this if I can help it!-the process isn't fun and I just start stalling!
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
 # Day 
 **Today's Progress**:
 **Thoughts** 
