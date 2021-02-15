@@ -182,9 +182,9 @@ article about containers: https://bitsofco.de/the-style-element/
 **Thoughts** 7:50 -8:50pm is my golden hour of work? Definitely no later than this if I can help it!-the process isn't fun and I just start stalling!
 **Link(s) to work**
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
+# Day 34 Feb 14 Sun
+**Today's Progress**: Worked on bootstrap, just started module 4 on navs.
+**Thoughts** Learn in little bits every day to retain knowledge learned. An idea from Ali Abdul. I think taking notes, and then coding along, or from notes taken has really helped me absorb and learn from the tutorial. Had fun today.
 **Link(s) to work**
 
 # Day 
