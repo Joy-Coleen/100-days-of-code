@@ -187,9 +187,9 @@ article about containers: https://bitsofco.de/the-style-element/
 **Thoughts** Learn in little bits every day to retain knowledge learned. An idea from Ali Abdul. I think taking notes, and then coding along, or from notes taken has really helped me absorb and learn from the tutorial. Had fun today.
 **Link(s) to work**
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
+# Day 35 Feb 15 Mon
+**Today's Progress**: Worked on 2 lessons with navs. Literally following bootstrap tutorial, but didn't get mine to work.
+**Thoughts** Gaaaa. Bad day);
 **Link(s) to work**
 
 # Day 
