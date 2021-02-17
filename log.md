@@ -192,8 +192,8 @@ article about containers: https://bitsofco.de/the-style-element/
 **Thoughts** Gaaaa. Bad day);
 **Link(s) to work**
 
-# Day 
-**Today's Progress**:
+# Day 36 Feb 16 Tue
+**Today's Progress**: Bootstrap. I've been following the tutorial, than implementing things I like into the FPStudios page. Today I implemented a nav, articles and articls with divs that led to nav hrefs- I learned how to do that one page nav thing today which was fun. Today felt productive, as I learned all that + saw my sight improve aesthetically... Whenever I see the fruit of my labor like that it makes me feel productive.
 **Thoughts** 
 **Link(s) to work**
 
