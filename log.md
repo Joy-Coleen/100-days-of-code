@@ -197,9 +197,9 @@ article about containers: https://bitsofco.de/the-style-element/
 **Thoughts** 
 **Link(s) to work**
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
+# Day 37 Feb 17 Wed
+**Today's Progress**: Worked on bootstrap tutorial. Dropdown nav.
+**Thoughts** It was okay, but tired now writing this.
 **Link(s) to work**
 
 # Day 
