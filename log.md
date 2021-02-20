@@ -202,8 +202,8 @@ article about containers: https://bitsofco.de/the-style-element/
 **Thoughts** It was okay, but tired now writing this.
 **Link(s) to work**
 
-# Day 
-**Today's Progress**:
+# Day 38 Feb 19
+**Today's Progress**: Missed yesterday. Was tired today, as I started the hour at 11:00pm. Worked through bootstrap tutorial. Module 5 is a fun module so far.
 **Thoughts** 
 **Link(s) to work**
 
