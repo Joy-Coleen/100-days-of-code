@@ -212,9 +212,9 @@ article about containers: https://bitsofco.de/the-style-element/
 **Thoughts** I'm wondering what I will do after I finish this tutorial. Either go through a more advanced bootstrap tutorial on lynda, or try to study flexboxes through articles, and apply them. Either way I really need to start making wireframes of the FPS webpage, so I can stop using the page as a practice page, and actually start developing it with bootstrap.
 **Link(s) to work**
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
+# Day 40 Feb 21
+**Today's Progress**: Bootstrap tutorial. 
+**Thoughts**  ditto
 **Link(s) to work**
 
 # Day 
