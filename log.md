@@ -218,8 +218,8 @@ article about containers: https://bitsofco.de/the-style-element/
 **Link(s) to work**
 
 # Day 
-**Today's Progress**:
-**Thoughts** 
+**Today's Progress**: bootstrap tutorials over forms...
+**Thoughts** Watched Tangled with Grace. Having to dry my blanket saved me from not doing the challenge today. Thanks forgetful mind?
 **Link(s) to work**
 
 # Day 
