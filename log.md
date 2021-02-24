@@ -217,14 +217,14 @@ article about containers: https://bitsofco.de/the-style-element/
 **Thoughts**  ditto
 **Link(s) to work**
 
-# Day 
+# Day 41
 **Today's Progress**: bootstrap tutorials over forms...
 **Thoughts** Watched Tangled with Grace. Having to dry my blanket saved me from not doing the challenge today. Thanks forgetful mind?
 **Link(s) to work**
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
+# Day 42 Feb 23
+**Today's Progress**: Almost finished with bootstrap course.
+**Thoughts** This last module is going over javascript implementations and it's so much fun.
 **Link(s) to work**
 
 # Day 
