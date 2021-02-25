@@ -227,10 +227,10 @@ article about containers: https://bitsofco.de/the-style-element/
 **Thoughts** This last module is going over javascript implementations and it's so much fun.
 **Link(s) to work**
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
-**Link(s) to work**
+# Day 43 Feb 24
+**Today's Progress**: Bootstrap course.
+**Thoughts** Carousels.
+**Link(s) to work** 
 
 # Day 
 **Today's Progress**:
