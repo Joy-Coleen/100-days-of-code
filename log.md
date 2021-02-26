@@ -232,9 +232,9 @@ article about containers: https://bitsofco.de/the-style-element/
 **Thoughts** Carousels.
 **Link(s) to work** 
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
+# Day 44 Feb 25
+**Today's Progress**: Wordpress site
+**Thoughts** Worked on wordpress categories and tags. Categories are just that - categories and tags are like the details of the categories.
 **Link(s) to work**
 
 # Day 
