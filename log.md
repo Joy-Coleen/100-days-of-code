@@ -237,14 +237,14 @@ article about containers: https://bitsofco.de/the-style-element/
 **Thoughts** Worked on wordpress categories and tags. Categories are just that - categories and tags are like the details of the categories.
 **Link(s) to work**
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
+# Day 45 Feb 26
+**Today's Progress**: SVGS
+**Thoughts** Followed a tutorial making a scaleable vector graphic. Fun!
 **Link(s) to work**
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
+# Day 46 Feb 27
+**Today's Progress**: Bootstrap.
+**Thoughts** Not to shay. I learned about and made a modal. Very cool effect-where you click on a link and it brings up a message simultaneously graying out the site.
 **Link(s) to work**
 
 # Day 
