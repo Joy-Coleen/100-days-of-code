@@ -247,7 +247,36 @@ article about containers: https://bitsofco.de/the-style-element/
 **Thoughts** Not to shay. I learned about and made a modal. Very cool effect-where you click on a link and it brings up a message simultaneously graying out the site.
 **Link(s) to work**
 
+# Day 47 Feb 28
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 48 March 1st
+**Today's Progress**: Worked on nav for bootstrap FPS project
+**Thoughts** So tired. Inspo for flex box nav: Blue Duck Plumbing Site
+**Link(s) to work**
+
+
 # Day 
 **Today's Progress**:
 **Thoughts** 
 **Link(s) to work**
+
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
+# Day 
+**Today's Progress**:
+**Thoughts** 
+**Link(s) to work**
+
