@@ -22,43 +22,26 @@
   </style> -->
 
 
-  <header class="fixed-top">
+  <header class="fixed-top mb-5">
+    <nav id="navbar-site" class="navbar navbar-light bg-light navbar-expand-sm">
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="web240/index.html">Navbar</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
-          <li class="nav-item active">
-            <a class="nav-link" href="#about">about</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#services">services</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#QNA">QNA</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#contact">contact</a>
-          </li>
-        </ul>
-      </div>
-    </nav>
-    
-      </div><!-- container -->
-    </nav><!-- nav -->
-    
-  </header>
-  <!-- alternate nav styles here
-    <ul class="nav nav-tabs nav-justified">
+<div class="container flex-column " >
+   <a class="navbar-brand d-none d-sm-inline-block" href="index.html">
+    <img src="cropped-titleheader.png" style="width: 90%" alt="Fairy Portrait Studios Typography">
+  </a>
+</div>
+<div>
+<ul class="nav nav-tabs nav-justified">
     <a class="nav-item nav-link active" href="#">Home</a>
     <a class="nav-item nav-link" href="#">Mission</a>
     <a class="nav-item nav-link" href="#">Services</a>
     <a class="nav-item nav-link" href="#">Staff</a>
     <a class="nav-item nav-link disabled" href="#">Testimonials</a>
-  </ul> -->
+  </ul> 
+</div>
+    </nav>
+</header>
+
   <!-- <section id="services" class="bg-light"> -->
   <article class="container mt-5">
     <section class="">
@@ -96,11 +79,11 @@
       </section>
     </section>
 
-    <!-- <style>
+    <style>
       aside {
         color: gold;
       }
-    </style> -->
+    </style>
 
     <!-- section -->
     <section id="about">
@@ -353,15 +336,36 @@
       </section>
     </footer>
   </article>
-  <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
-    crossorigin="anonymous"></script> -->
-    <!-- Latest compiled and minified CSS -->
-    <script src="js/jquery.slim.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    crossorigin="anonymous"></script>
 </body>
 
 </html>
 <!--Ideas: background color: gold, white, light pink or complementary color of gold. fade in or pattern in background?
 carousel for images?-->
+
+
+<nav id="navbar-site" class="navbar navbar-light bg-light navbar-expand-sm">
+  <div class="container">
+    <a class="navbar-brand d-none d-sm-inline-block" href="index.html">
+      <img src="cropped-titleheader.png" style="width: 90%" alt="Fairy Portrait Studios Typography">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#my-toggler-nav"
+      aria-controls="#my-toggler-nav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="my-toggler-nav">
+        <div class="navbar-nav d-flex d-inline-flex justify-content-end">
+          <ul class="nav list-group-horizontal">
+        <li class = "nav-item nav-link active"><a href="#mission">Mission</a></li>
+        <li class = "nav-item nav-link"><a href="#about">About</a></li>
+        <li class = "nav-item nav-link"><a href="#services">Services</a></li>
+        <li class = "nav-item nav-link"><a href="#QNA">Questions</a></li>
+        <li class = "nav-item nav-link"><a href="#contact">Contact</a></li>
+      </ul> <!--ul nav class-->
+       
+      </div><!-- navbar-nav -->
+    </div> <!-- collapse  navbar-collapse-->
+  </div><!-- container -->
+</nav>
