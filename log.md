@@ -258,9 +258,9 @@ article about containers: https://bitsofco.de/the-style-element/
 **Link(s) to work**
 
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
+# Day 49 March 2nd
+**Today's Progress**: Fixed bootstrap dropdown nav so it works by installing correct bootstrap files to use, well, bootstrap.
+**Thoughts** Today was stressful, but fixing the javascript source code for bootstrap by adding the files needed (cdn?) and changing the source code accordingly felt ~great~.
 **Link(s) to work**
 
 
