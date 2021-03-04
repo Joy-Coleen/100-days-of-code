@@ -264,9 +264,9 @@ article about containers: https://bitsofco.de/the-style-element/
 **Link(s) to work**
 
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
+# Day 50 baby March 3 
+**Today's Progress**: Working on installing correct files for my website basically all day.
+**Thoughts**  Satisfyingly stressful as deadline is tommarow and I have zoom with capstone that day as well as ~drum roll please~ a summon to court as a witness.
 **Link(s) to work**
 
 
