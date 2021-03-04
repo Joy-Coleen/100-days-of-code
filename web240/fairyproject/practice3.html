@@ -1,3 +1,4 @@
+
 <!-- Joy Bradshaw 2/4/2021 -->
 <!DOCTYPE html>
 <html lang="en">
@@ -7,23 +8,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <meta http-equiv="x-ua-compatible" content="ie=edge" />
-  <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous" /> -->
-  <link rel="stylesheet" href="css/bootstrap.min.css">
-
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous" />
   <title>Fairy Portrait Studios</title>
-  
-  <style>
-    /* .article {
-     margin: 1 1 rem;
-    } */
-    .bg-gradient{
-      background: linear-gradient(#a38a00,white);
-    }
-  </style>
 </head>
 
-<body class="bg-gradient">
+<body>
   <!--class="bg-dark" -->
   <!-- <style>
     img {
@@ -35,22 +25,18 @@
 
   <header class="fixed-top">
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-light ">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="d-inline-flex">
-        <div>
-          <a class="navbar-brand d-none d-sm-inline-block" href="index.html">
-            <img src="cropped-titleheader.png" class="d-flex " style="width: 85%"
-              alt="Fairy Portrait Studios Typography">
-            <!-- style="width: 85%" -->
-          </a>
-        </div>
-        <!--Logo-->
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
-          aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-      </div>
-      <!--logo and button container-->
+      <div>
+      <a class="navbar-brand d-none d-sm-inline-block" href="index.html">
+        <img src="cropped-titleheader.png" class="d-flex " style="width: 85%" alt="Fairy Portrait Studios Typography">
+        <!-- style="width: 85%" -->
+      </a>
+    </div><!--Logo-->
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div><!--logo and button container-->
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item active">
@@ -66,10 +52,12 @@
             <a class="nav-link" href="#contact">contact</a>
           </li>
         </ul>
-
-    </div><!-- container -->
+      </div>
+    </nav>
+    
+      </div><!-- container -->
     </nav><!-- nav -->
-
+    
   </header>
   <!-- alternate nav styles here
     <ul class="nav nav-tabs nav-justified">
@@ -80,9 +68,8 @@
     <a class="nav-item nav-link disabled" href="#">Testimonials</a>
   </ul> -->
   <!-- <section id="services" class="bg-light"> -->
-    
-  <article class="article mt-5">
-    <section class="content">
+  <article class="container mt-5">
+    <section class="">
       <h2>Who we are</h2>
       <h2>
         My Sister, Nina, and I look forward to capturing the beauty and magic of
@@ -90,15 +77,16 @@
       </h2>
       <img src="top_image.jpg" class="img-fluid" alt="fantasy fairy land forest" />
     </section>
-    
-      <section class="content" id = "mission">
+    <section id="mission">
+      <section>
         <h2 class="text-dark">Dear Mom and Dad:</h2>
-        <img src="image1.jpg" class="img-fluid" alt="fairy model" />
+        <img src="image1.jpg" class="rounded mx-auto d-block" alt="fairy model" />
         <!-- class="img-fluid" -->
         <!-- <p class="bg-danger text-white"> -->
         <aside> Children grow up very fast! The best way to preserve these youthful
           moments in time is with professional portraits.
         </aside>
+        </p>
         <p>
           We have been blessed to capture precious memories of children for over
           forty years. Time moves so quickly and childhood is so fleeting that
@@ -114,7 +102,7 @@
         <!-- </div>
             </blockquote> -->
       </section>
-  
+    </section>
 
     <!-- <style>
       aside {
@@ -124,7 +112,7 @@
 
     <!-- section -->
     <section id="about">
-      <section class="content">
+      <section class="">
         <img src="image2.jpg" class="img-fluid" alt="fairy model" />
         <p>
           When parents come and view their pictures after they are taken in our
@@ -133,8 +121,8 @@
           and us to capture innocence, magic and beauty of their childhood.
         </p>
         <div class="container">
-          <aside class="border mb-4">
-            <p>
+          <aside class="border d-flex justify-content-md-end mb-4">
+            <p class=" p-2 align-content-sm-end">
               Great pride and planning go into creating a "fairy portrait experience"
               that your child will always remember. With special forest backgrounds,
               rocks and a mystical pond that the little girls can put their toes in
@@ -148,7 +136,7 @@
         <!--container div-->
       </section>
       <!-- possible section -->
-      <section class="content">
+      <section class="content" id="">
         <!-- <figure class="figure col col-lg-7"> -->
         <!-- Use a <figure> element to mark up a photo in a document, and a <figcaption> element to define a caption for the photo: -->
         <img class="figure-img img-fluid" src="image3.jpg" alt="fairy model" />
@@ -178,7 +166,7 @@
       <!-- possible section -->
       <section>
         <img src="image4.jpg" class="img-fluid" alt="fairy model" />
-
+        
         <!-- This image is not sized properly -->
         <h2>
           These will be the finest portraits of your child that you have ever had
@@ -201,7 +189,8 @@
             We take plenty of time, and schedule accordingly, so that each child
             gets all of the time and attention she needs to have a wonderful
             experience.
-          </p> </aside> -->
+          </p> -->
+        </aside>
         <p>When you leave the session you will be excited to see the results.</p>
       </section>
       <!-- possible section -->
@@ -231,8 +220,8 @@
           One trick is that I will often place a quarter on my forehead and have
           them blow it off. When it comes off we get looks of wonderment, and
           smiles. This is just one trick of over 50 along with expressions that I
-          use.</p>
-        <p><aside> Experience comes in when you know what trick or expression to use
+          use.
+        <aside> Experience comes in when you know what trick or expression to use
           with each child's unique personality.
         </aside>
         </p>
@@ -333,7 +322,7 @@
       <p>Yes, boys are shown in fishing scenes and Robin Hood-type costumes.</p>
       <h3> Question:</h3>
 
-      <p>Do you do babies or children under 3 or over 13?</p>
+      Do you do babies or children under 3 or over 13?</p>
       <h3>Answer:</h3>
 
       <p>Yes, we photograph children from newborn to 17 years old.
@@ -348,7 +337,7 @@
     </section>
 
     <footer>
-      <section class="content" id="contact">
+      <section id="contact">
         <div itemscope itemtype="https://schema.org/LocalBusiness">
           <!-- <img
           itemprop="img"
@@ -356,9 +345,9 @@
           alt="model of a fairy in the woodlands"
           title="model of a fairy in the woodlands"
           /> -->
-         <h2>
+          <h1>
             <span itemprop="name">Fairy Portrait Studios &amp; Photography</span>
-          </h2>
+          </h1>
           <span itemprop="description">
             Let's capture the beauty of your child today!</span>
           <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
@@ -376,12 +365,14 @@
   <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
     crossorigin="anonymous"></script> -->
-  <!-- Latest compiled and minified CSS -->
-  <script src="js/jquery.slim.min.js"></script>
-  <script src="js/popper.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
+    <!-- Latest compiled and minified CSS -->
+    <script src="js/jquery.slim.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
 </body>
 
 </html>
 <!--Ideas: background color: gold, white, light pink or complementary color of gold. fade in or pattern in background?
 carousel for images?-->
+
+   
