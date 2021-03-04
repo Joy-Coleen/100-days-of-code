@@ -266,7 +266,8 @@ article about containers: https://bitsofco.de/the-style-element/
 
 # Day 50 baby March 3 
 **Today's Progress**: Working on installing correct files for my website basically all day.
-**Thoughts**  Satisfyingly stressful as deadline is tommarow and I have zoom with capstone that day as well as ~drum roll please~ a summon to court as a witness.
+**Thoughts**  Satisfyingly stressful; The flexbox assignment deadline is tommarow, I have zoom with capstone tommarow at 6:00pm, and ~drum roll please~ i'm summoned to court at 1:00pm to testify. 
+p.s. my eyes are bulging from to much screen time.
 **Link(s) to work**
 
 
