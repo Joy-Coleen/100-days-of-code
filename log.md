@@ -271,9 +271,9 @@ p.s. my eyes are bulging from to much screen time.
 **Link(s) to work**
 
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
+# Day 51 March 5
+**Today's Progress**: Worked on Wordpress. 
+**Thoughts** Didn't do anything today. Had some rice milk and dates which apparently shut down my system and I succesfully didn't do anything. Hard to start. Or get "motivated", whatever that means, to start. When I did though doing an hour of wordpress was semi fun. Also the only productive thing I did today. 
 **Link(s) to work**
 
 # Day 
