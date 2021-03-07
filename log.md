@@ -276,8 +276,8 @@ p.s. my eyes are bulging from to much screen time.
 **Thoughts** Didn't do anything today. Had some rice milk and dates which apparently shut down my system and I succesfully didn't do anything. Hard to start. Or get "motivated", whatever that means, to start. When I did though doing an hour of wordpress was semi fun. Also the only productive thing I did today. 
 **Link(s) to work**
 
-# Day 
-**Today's Progress**:
-**Thoughts** 
+# Day 52 March 6
+**Today's Progress**: Wordpress > Enfold > Advanced Layout Builder
+**Thoughts** Enfold is extremely powerful, but it's hard to get the image to do what I want -stretch it across the page as a header.
 **Link(s) to work**
 
