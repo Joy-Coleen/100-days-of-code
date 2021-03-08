@@ -281,3 +281,68 @@ p.s. my eyes are bulging from to much screen time.
 **Thoughts** Enfold is extremely powerful, but it's hard to get the image to do what I want -stretch it across the page as a header.
 **Link(s) to work**
 
+# Day 53 March 7
+**Today's Progress**: Wordpress
+**Thoughts** The enfold advanced editor, and how it works for images is clearer. Getting excited for the TCC Project!!
+**Link(s) to work**
+
+# Day
+**Today's Progress**: 
+**Thoughts** 
+**Link(s) to work**
+
+# Day
+**Today's Progress**: 
+**Thoughts** 
+**Link(s) to work**
+
+# Day
+**Today's Progress**: 
+**Thoughts** 
+**Link(s) to work**
+
+# Day
+**Today's Progress**: 
+**Thoughts** 
+**Link(s) to work**
+
+# Day
+**Today's Progress**: 
+**Thoughts** 
+**Link(s) to work**
+
+# Day
+**Today's Progress**: 
+**Thoughts** 
+**Link(s) to work**
+
+# Day
+**Today's Progress**: 
+**Thoughts** 
+**Link(s) to work**
+
+# Day
+**Today's Progress**: 
+**Thoughts** 
+**Link(s) to work**
+
+# Day
+**Today's Progress**: 
+**Thoughts** 
+**Link(s) to work**
+
+# Day
+**Today's Progress**: 
+**Thoughts** 
+**Link(s) to work**
+# Day
+**Today's Progress**: 
+**Thoughts** 
+**Link(s) to work**
+
+
+# Day
+**Today's Progress**: 
+**Thoughts** 
+**Link(s) to work**
+
