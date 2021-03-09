@@ -286,9 +286,9 @@ p.s. my eyes are bulging from to much screen time.
 **Thoughts** The enfold advanced editor, and how it works for images is clearer. Getting excited for the TCC Project!!
 **Link(s) to work**
 
-# Day
-**Today's Progress**: 
-**Thoughts** 
+# Day 54
+**Today's Progress**: Wordpress TCC
+**Thoughts** Able to distinguish worpress features from enfold package features and advanced editor.
 **Link(s) to work**
 
 # Day
