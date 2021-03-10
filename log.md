@@ -291,10 +291,10 @@ p.s. my eyes are bulging from to much screen time.
 **Thoughts** Able to distinguish worpress features from enfold package features and advanced editor.
 **Link(s) to work**
 
-# Day
-**Today's Progress**: 
-**Thoughts** 
-**Link(s) to work**
+# Day 55
+**Today's Progress**: Flexbox for web 122 midterm.
+**Thoughts** Going through mozilla guide. Slightly abstract to me rn, but making more sense as I go along.
+**Link(s) to guide** https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
 
 # Day
 **Today's Progress**: 
