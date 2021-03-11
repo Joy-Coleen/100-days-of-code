@@ -296,9 +296,9 @@ p.s. my eyes are bulging from to much screen time.
 **Thoughts** Going through mozilla guide. Slightly abstract to me rn, but making more sense as I go along.
 **Link(s) to guide** https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
 
-# Day
-**Today's Progress**: 
-**Thoughts** 
+# Day 56 March 10
+**Today's Progress**: Wordpress
+**Thoughts** Today was fun.
 **Link(s) to work**
 
 # Day
