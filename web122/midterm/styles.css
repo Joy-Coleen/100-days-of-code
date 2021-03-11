@@ -1,0 +1,40 @@
+/*Joy Bradshaw 3/1/2021 Web 122 Midterm Project*/
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: #ff33ff;
+  padding: 15px;
+}
+
+.one {
+  flex: auto;
+  background-color: lightblue;
+  padding: 1em;
+  margin-bottom: 15px;
+}
+
+.two {
+  flex: auto;
+  background-color: lightblue;
+  padding: 1em;
+  margin-bottom: 15px;
+}
+
+.three {
+  flex: initial;
+  background-color: lightblue;
+  padding: 1em;
+  margin-bottom: 15px;
+}
+.four {
+  flex: initial;
+  background-color: lightblue;
+  padding: 1em;
+  margin-bottom: 15px;
+}
+/* 
+  <div class="container">
+  <div class="one">One</div>
+  <div class="two">Two</div>
+  <div class="three">Three</div>
+</div> */
