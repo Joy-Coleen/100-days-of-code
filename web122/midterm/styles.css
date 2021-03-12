@@ -32,6 +32,9 @@
   padding: 1em;
   margin-bottom: 15px;
 }
+.sidebar {
+  display: flex;
+}
 /* 
   <div class="container">
   <div class="one">One</div>
