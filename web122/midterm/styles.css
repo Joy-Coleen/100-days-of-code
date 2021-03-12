@@ -32,8 +32,17 @@
   padding: 1em;
   margin-bottom: 15px;
 }
-.sidebar {
+.content-sidebar {
   display: flex;
+  flex-wrap: wrap;
+}
+
+.content-sidebar > .bar1 {
+  flex: 1 1 70%
+}
+
+.content-sidebar > .bar2 {
+  flex: 1 1 30%
 }
 /* 
   <div class="container">
