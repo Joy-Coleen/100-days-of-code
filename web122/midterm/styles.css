@@ -1,15 +1,64 @@
 /*Joy Bradshaw 3/1/2021 Web 122 Midterm Project*/
-.container {
+
+:root { 
+  /* bgc for heading and nav */
+  --background: rgba(85, 214, 170, .85); 
+
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/*Styling for heading + nav*/
+header {
+  background: var(--background);
+  text-align: center;
+  position: fixed;
+  z-index: 999;
+  width: 100%;
+}
+
+nav {
+  position: absolute;
+  text-align: left;
+  top: 100%;
+  left: 0;
+  background: var(--background);
+  width: 100%;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  margin-bottom: 1em;
+  margin-left: 1em;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+
+}
+nav a:hover {
+  color: black;
+}
+
+/* .container {
   max-width: 1080px;
   margin: 0 auto;
 }
+
 
 .flex {
   display: flex;
   flex-direction: column;
   background-color: goldenrod;
   padding: 15px;
-}
+} */
 
 .one {
   flex: auto;
@@ -53,6 +102,7 @@
   list-style-type: none;
  
 }
+
 /* 
   <div class="container">
   <div class="one">One</div>
