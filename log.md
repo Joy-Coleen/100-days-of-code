@@ -301,15 +301,16 @@ p.s. my eyes are bulging from to much screen time.
 **Thoughts** Today was fun.
 **Link(s) to work**
 
-# Day
-**Today's Progress**: 
-**Thoughts** 
+# Day Day 57 March 11
+**Today's Progress**: Wordpress 
+**Thoughts** Did it but forgot to do entry.
 **Link(s) to work**
 
-# Day
-**Today's Progress**: 
-**Thoughts** 
-**Link(s) to work**
+# Day 58 March 12
+**Today's Progress**: Web 122
+**Thoughts** I hated starting, just wanted to not code, but once I got going I was in the zone. That's pretty much how it's been 80% of the hours of code, but the other 20% are when I do the hour and it's tough because I have no clue regarding what i'm doing.
+**Link(s) to work** referencing: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Controlling_Ratios_of_Flex_Items_Along_the_Main_Ax for
+my flexbox page project: http://127.0.0.1:5501/midterm/index.html#two
 
 # Day
 **Today's Progress**: 
