@@ -1,14 +1,19 @@
 /*Joy Bradshaw 3/1/2021 Web 122 Midterm Project*/
 .container {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.flex {
   display: flex;
   flex-direction: column;
-  background-color: #ff33ff;
+  background-color: goldenrod;
   padding: 15px;
 }
 
 .one {
   flex: auto;
-  background-color: lightblue;
+  background-color: rgb(213, 165, 219);
   padding: 1em;
   margin-bottom: 15px;
 }
@@ -43,6 +48,10 @@
 
 .content-sidebar > .bar2 {
   flex: 1 1 30%
+}
+.site-nav {
+  list-style-type: none;
+ 
 }
 /* 
   <div class="container">
