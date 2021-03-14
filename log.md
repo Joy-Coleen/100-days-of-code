@@ -312,9 +312,9 @@ p.s. my eyes are bulging from to much screen time.
 **Link(s) to work** referencing: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Controlling_Ratios_of_Flex_Items_Along_the_Main_Ax for
 my flexbox page project: http://127.0.0.1:5501/midterm/index.html#two
 
-# Day
-**Today's Progress**: 
-**Thoughts** 
+# Day 59 March 13
+**Today's Progress**: web 122 nav for midterm single page with flexbox.
+**Thoughts** good
 **Link(s) to work**
 
 # Day
