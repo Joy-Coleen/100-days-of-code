@@ -317,10 +317,12 @@ my flexbox page project: http://127.0.0.1:5501/midterm/index.html#two
 **Thoughts** good
 **Link(s) to work**
 
-# Day
-**Today's Progress**: 
-**Thoughts** 
+# Day 60 March 14
+**Today's Progress**: Finished flexbox and grid nav tutorial by Kevin Powell
+**Thoughts** Love everything about that guy and his explanations.
 **Link(s) to work**
+His tutorial: https://www.youtube.com/watch?v=8QKOaTYvYUA&t=968s
+my page: http://127.0.0.1:5501/midterm/index.html#four
 
 # Day
 **Today's Progress**: 
