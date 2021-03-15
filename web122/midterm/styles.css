@@ -9,7 +9,22 @@
 *, *::before, *::after {
   box-sizing: border-box;
 }
-
+/* Head tutorial beggining */
+body {
+	margin: 0;
+	background: #222;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 400;
+}
+.content {
+  height: 200vh;
+  background-image: url(//unsplash.it/1000/1000);
+  background-color: #333;
+  background-blend-mode: multiply;
+  background-size: cover;
+  display: grid;
+  place-items: center;
+}
 /*Styling for heading + nav*/
 header {
   background: var(--background);
@@ -21,6 +36,7 @@ header {
 .nav-toggle {
   display: none;
 }
+/* menu dropdown */
 .nav-toggle-label {
   position: absolute;
   top: 0;
@@ -31,6 +47,7 @@ header {
   display: flex;
   align-items: center;
 }
+/* hamburger menu lines */
 .nav-toggle-label span,
 .nav-toggle-label span::before,
 .nav-toggle-label span::after {
@@ -44,13 +61,17 @@ header {
 
 .nav-toggle-label span::before,
 .nav-toggle-label span::after {
-content: '';
+  /*two lines before and after will show, not default to none  */
+content: ''; 
 position: absolute;
 }
-
 .nav-toggle-label span::before {
-bottome: 7px;
+  bottom: 7px;
 }
+.nav-toggle-label span::after {
+  top: 7px;
+}
+
 nav {
   position: absolute;
   text-align: left;
@@ -58,8 +79,12 @@ nav {
   left: 0;
   background: var(--background);
   width: 100%;
-  display: none;
+  transform: scale(1, 0);
+  transform-origin: top;
+  transition: transform 400ms ease-in-out;
+ 
 }
+
 nav ul {
   margin: 0;
   padding: 0;
@@ -74,12 +99,24 @@ nav a {
   text-decoration: none;
   font-size: 1.2rem;
   text-transform: uppercase;
+  opacity: 0;
+    /* transition when no longer checked/ unchecking */
+
+  transition: opacity 150ms ease-in-out;
 
 }
 nav a:hover {
   color: black;
 }
-.nav-toggle:checked ~ nav {display: block;}
+.nav-toggle:checked ~ nav {
+transform: scale(1,1);
+}
+
+.nav-toggle:checked ~ nav a { 
+  opacity: 1;
+  /* transition when checked */
+  transition: opacity 250ms ease-in-out 250ms;
+}
 /*  */
 
 /* .container {
@@ -144,3 +181,63 @@ nav a:hover {
   <div class="two">Two</div>
   <div class="three">Three</div>
 </div> */
+/*query for big screens inspired by Kevin Powell*/
+@media screen and (min-width: 800px) {
+  /* turn off hamburger menu */
+  .nav-toggle-label {
+    display: none;
+  }
+  header {
+    display: grid;
+    /* fr is a fraction unit (leftover space) */
+    grid-template-columns: 1fr auto minmax(600px, 3fr) 1fr;
+  }
+  .logo {
+    /* or 2 / span 3 */
+    grid-column: 2 / 3;
+  }
+  nav {
+    all: unset;
+    grid-column: 3 / 4;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+  }
+  nav ul {
+    display: flex;
+    justify-content: flex-end;
+    /* border: 1px solid red */
+  }
+  nav li {
+    margin-left: 3em;
+    margin-bottom: 0;
+  }
+  nav a {opacity: 1;
+  position: relative;}
+/* black nav lines */
+  nav a::before {
+    content: '';
+    display: block;
+    height: 5px;
+    background: black;
+    position: absolute;
+    top: -.75em;
+    left: 0;
+    right: 0;
+    transform: scale(0, 1);
+    transform-origin: right;
+    transition: transform ease-in-out 250ms;
+
+  }
+  nav a:hover::before {
+    transform: scale(1,1);
+  }
+}
+
+/* flexbox credit goes to:
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+
+How to make nav by Kevin Powell
+https://www.youtube.com/watch?v=8QKOaTYvYUA */
