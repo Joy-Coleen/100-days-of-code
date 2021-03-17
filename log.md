@@ -324,9 +324,9 @@ my flexbox page project: http://127.0.0.1:5501/midterm/index.html#two
 His tutorial: https://www.youtube.com/watch?v=8QKOaTYvYUA&t=968s
 my page: http://127.0.0.1:5501/midterm/index.html#four
 
-# Day
-**Today's Progress**: 
-**Thoughts** 
+# Day 61 March 16
+**Today's Progress**: Wordpress
+**Thoughts** Back on track...
 **Link(s) to work**
 
 # Day
